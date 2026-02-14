@@ -1,2 +1,3 @@
 # OVERHEAD-GUI
-DESCRİPTİON
+*Works automatcly only drag and drop
+*Easy rank system set-up
