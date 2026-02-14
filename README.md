@@ -25,7 +25,8 @@ SetOwner("username")
 SetColorTheme("Dark")
 SetColorTheme("Light")
 ```
-
+![DarkTheme](images_forRM/img1.png)
+![LightTheme](images_forRM/img1.png)
 ---
 
 *Developed by **Osman** (Mandalina Studio)*
