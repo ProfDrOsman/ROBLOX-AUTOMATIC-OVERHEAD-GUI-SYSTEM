@@ -26,7 +26,7 @@ SetColorTheme("Dark")
 SetColorTheme("Light")
 ```
 ![DarkTheme](images_forRM/img1.PNG)
-![LightTheme](images_forRM/img1.PNG)
+![LightTheme](images_forRM/img2.PNG)
 ---
 
 *Developed by **Osman** (Mandalina Studio)*
