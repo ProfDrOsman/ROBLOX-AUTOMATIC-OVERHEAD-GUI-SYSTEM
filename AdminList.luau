@@ -99,4 +99,4 @@ local function SetColorTheme(string)
 end
 
 SetColorTheme("Dark")
-SetOwner("ProfDrOsman")
+SetOwner("ProfDrOsman") --change it whit your usertname
