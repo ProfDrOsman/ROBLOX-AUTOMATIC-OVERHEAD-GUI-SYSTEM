@@ -16,6 +16,10 @@ A professional Roblox system that automatically detects player devices (Mobile, 
 1. **Quick Setup:** Download the ready-to-use `.rbxm` file from the **Releases** section and drag it directly into your Roblox Studio.
 2. **Setting Ranks** open AdminList script and write SetAdmin("username") or SetMOD("username") etc.
 3. **Setting Billboard Color Theme** open AdminList script and write SetColorTheme("Dark") or SetColorTheme("Light")
+ ```luau
+SetColorTheme("Dark")
+SetColorTheme("Light")
+```
 
 ---
 
